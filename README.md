@@ -51,5 +51,3 @@ The `styles.css` file contains CSS rules that style the web page, demonstrating 
 ### Acknowledgments
 
 This project was inspired by [Frontend Mentor](https://www.frontendmentor.io/solutions/nft-card-component-j5IGqCH7B6) and was coded by [Fortune Oguibe](https://github.com/foguibe).
-
-This README summarizes the skills and techniques demonstrated in this project, emphasizing the creator's abilities in HTML and CSS and showcasing their understanding of modern web development best practices.
